@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Notebook\OneDrive\Documenti\progetto-finale\codice\codice\immediate2d.h(1363,5): warning C4984: 'if constexpr' è un'estensione del linguaggio C++17
+  (compilazione del file di origine 'main.cpp')
+  
+C:\Users\Notebook\OneDrive\Documenti\progetto-finale\codice\codice\immediate2d.h(1364,5): warning C4984: 'if constexpr' è un'estensione del linguaggio C++17
+  (compilazione del file di origine 'main.cpp')
+  
+C:\Users\Notebook\OneDrive\Documenti\progetto-finale\codice\codice\immediate2d.h(1365,5): warning C4984: 'if constexpr' è un'estensione del linguaggio C++17
+  (compilazione del file di origine 'main.cpp')
+  
+main.obj : error LNK2019: riferimento al simbolo esterno "void __cdecl run(void)" (?run@@YAXXZ) non risolto nella funzione "unsigned long __cdecl imm2d_threadProc(void *)" (?imm2d_threadProc@@YAKPEAX@Z)
+C:\Users\Notebook\OneDrive\Documenti\progetto-finale\codice\x64\Debug\codice.exe : fatal error LNK1120: 1 esterni non risolti
